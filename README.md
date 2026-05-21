@@ -1,4 +1,4 @@
-<p style="color: red;"><strong>NOTE:</strong> There was a task-link mismatch during the hiring process: the assignment shared in the role email differed from the backend-developer project included in the submission form. To stay safe, both projects were completed. The other project repository is here: <a href="REPLACE_WITH_OTHER_PROJECT_REPO_LINK">Other project repo</a>.</p>
+<p **⚠ NOTE:** There was a task-link mismatch during the hiring process: the assignment shared in the role email differed from the backend-developer project included in the submission form. To stay safe, both projects were completed. The other project repository is here: <a href="REPLACE_WITH_OTHER_PROJECT_REPO_LINK">Other project repo</a>.</p>
 
 # TaskFlow API — Backend Intern Assignment
 
