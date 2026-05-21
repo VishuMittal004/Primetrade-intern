@@ -1,4 +1,4 @@
-<p **⚠ NOTE:** There was a task-link mismatch during the hiring process: the assignment shared in the role email differed from the backend-developer project included in the submission form. To stay safe, both projects were completed. The other project repository is here: <a href="REPLACE_WITH_OTHER_PROJECT_REPO_LINK">Other project repo</a>.</p>
+> **⚠ NOTE:** There was a task-link mismatch during the hiring process: the assignment shared in the role email differed from the backend-developer project included in the submission form. To stay safe, both projects were completed. The other project repository is here: [Python Testnet Trading Bot](https://github.com/VishuMittal004/Primetrade-python)
 
 # TaskFlow API — Backend Intern Assignment
 
