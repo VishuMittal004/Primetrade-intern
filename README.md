@@ -6,7 +6,7 @@ A production-ready REST API demonstrating JWT authentication, Role-Based Access 
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 Intern project/
@@ -39,7 +39,7 @@ Intern project/
 
 ---
 
-## ⚡ Quick Start (Local)
+## Quick Start (Local)
 
 ### Prerequisites
 - Node.js ≥ 18
@@ -74,7 +74,7 @@ docker-compose up --build
 
 ---
 
-## 🔐 Demo Accounts (after seed)
+## Demo Accounts (after seed)
 
 | Role  | Email                  | Password   |
 |-------|------------------------|------------|
@@ -84,7 +84,7 @@ docker-compose up --build
 
 ---
 
-## 📡 API Routes
+## API Routes
 
 ### Auth — `/api/v1/auth`
 | Method | Route               | Access  | Description            |
@@ -126,7 +126,7 @@ docker-compose up --build
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 Swagger UI: **http://localhost:5000/api-docs**
 
@@ -134,7 +134,7 @@ Covers all endpoints with request/response schemas, auth flow, and examples.
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 - **JWT** with access tokens (7d) + httpOnly refresh cookie (30d)
 - **bcrypt** password hashing (12 salt rounds)
@@ -147,7 +147,7 @@ Covers all endpoints with request/response schemas, auth flow, and examples.
 
 ---
 
-## 🗄 MongoDB Schema
+## MongoDB Schema
 
 ### User
 ```
@@ -165,7 +165,7 @@ Indexes: `{ owner, status }`, `{ owner, priority }`, `{ owner, createdAt }`, ful
 
 ---
 
-## 📈 Scalability Notes
+## Scalability Notes
 
 ### Horizontal Scaling
 - Stateless JWT — add any number of API replicas behind a load balancer (Nginx/AWS ALB)
@@ -189,7 +189,7 @@ Indexes: `{ owner, status }`, `{ owner, priority }`, `{ owner, createdAt }`, ful
 
 ---
 
-## 🛠 Environment Variables
+## Environment Variables
 
 | Variable              | Description                    | Default                    |
 |-----------------------|--------------------------------|----------------------------|
@@ -203,7 +203,7 @@ Indexes: `{ owner, status }`, `{ owner, priority }`, `{ owner, createdAt }`, ful
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer       | Technology                       |
 |-------------|----------------------------------|
